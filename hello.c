@@ -7,7 +7,7 @@ int multiply(int a,int b)
 
 int main()
 {
-	printf("hello world");
+	printf("hello world yes");
 	printf("Add a text");
 	return 0;
 }
